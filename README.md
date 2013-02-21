@@ -1,8 +1,4 @@
-Biodataku
-=========
-<!DOCTYPE html>
-<head>
-<title>BIODATA</title>
+
 <body>
 <h1 style="color: Blue">BIODATA</h1>
 <p></p><p></p>
